@@ -61,6 +61,9 @@ Tap the palette icon in the display to switch themes. Selection is saved to `loc
 - Fully responsive (mobile + desktop)
 
 ---
+## 📱Interface 
+<img width="1602" height="900" alt="image" src="https://github.com/user-attachments/assets/87a51d4a-094a-46ec-9409-1b4efdee7e80" />
+<img width="1406" height="910" alt="image" src="https://github.com/user-attachments/assets/6dfda7f2-6fd5-4a22-bfc4-b3565d796f2c" />
 
 ## Getting Started
 
