@@ -3,6 +3,7 @@
 # Calculator Pro
 
 A premium, feature-rich calculator built with React & Tailwind CSS
+## ✨ Live : https://as-calcpro.netlify.app/
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
